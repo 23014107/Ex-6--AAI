@@ -59,4 +59,3 @@ print("Antonyms:", set(antonyms))
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
-](https://github.com/ajinajoshpin/Ex-6--AAI)
